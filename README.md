@@ -1,7 +1,27 @@
-### Hi there 👋
+<h1>Hi, I'm Hiwot! <br/><a href="https://github.com/HiwotWondale">A Software Engineering Student at ALX</a> and a <a href="https://www.linkedin.com/in/dr-hiwot-wondale-7091372a3/">Medical Doctor</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Coming Soon</b>
+  - [Advanced Javascript](https://github.com)
+
+<h2>📺 Popular Videos</h2>
+
+- [Introduction to HealthBridge (Mobile App Idea)](https://www.youtube.com/watch?v=1JkrtpRo01Y)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Hiwot Wondale| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/dr-hiwot-wondale-7091372a3/
+
+
+
 
 <!--
-**Hiwiye/Hiwiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hiwiye/hiwiye is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +32,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡️ Fun fact: ...
 -->
