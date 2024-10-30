@@ -2,12 +2,6 @@
 
 <h2> 👩🏽‍💻 Software Development Projects:</h2>
 
-- <b>Coming Soon:</b>
-  - <a href="https://github.com">Advanced Javascript</a>
-
-<h2>📺 Popular Videos</h2>
-
-- <a href="https://www.youtube.com/watch?v=1JkrtpRo01Y">Introduction to HealthBridge (Mobile App Idea)</a>
 
 <h2>🤳 Connect with me:</h2>
 
