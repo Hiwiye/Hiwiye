@@ -1,6 +1,6 @@
-<h1>Hi, I'm Hiwot! <br/><a href="https://github.com/HiwotWondale">A Software Engineering Student at ALX</a> and a <a href="https://www.linkedin.com/in/dr-hiwot-wondale-7091372a3/">Medical Doctor</a></h1>
+<h2>Hi, I'm  <a href="https://www.linkedin.com/in/dr-hiwot-wondale-7091372a3/"> Dr. Hiwot, </a> a self taught programmer and a ECFMG certified Medical Doctor</h2>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2> 👩🏽‍💻 Software Development Projects:</h2>
 
 - <b>Coming Soon:</b>
   - <a href="https://github.com">Advanced Javascript</a>
